@@ -1,4 +1,6 @@
 #!bin/bash
+#THIS SCRIPT IS STILL BEING DEVELOPED - DO NOT USE!
+
 #checking on current dir
 current_dir=`pwd`
 #checking if directory is correct
